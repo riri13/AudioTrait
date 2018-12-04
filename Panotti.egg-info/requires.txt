@@ -1,0 +1,6 @@
+keras
+librosa
+h5py
+
+[headgames]
+pygame
